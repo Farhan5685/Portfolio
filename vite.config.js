@@ -4,7 +4,7 @@ import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
 
 export default defineConfig({
-  base: '/Portfolio/', // 👈 MUST match your GitHub repo name exactly (case-sensitive)
+  base: '/Portfolio/', // 👈 VERY IMPORTANT! Must match your GitHub repo name
   plugins: [vue(), vueDevTools()],
   resolve: {
     alias: {
