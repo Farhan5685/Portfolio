@@ -77,7 +77,7 @@ const projects = [
       "A modern admin panel with theme toggle, CRUD users, charts, and protected routes. Built with Vue 3 + Vuetify + Pinia.",
     image: new URL('@/assets/admindashboard.PNG', import.meta.url).href,
     tech: ["Vue 3", "Vuetify", "Pinia", "Chart.js"],
-    demo: "https://admindashboard-farhan5685s-projects.vercel.app",
+    demo: "https://admin-dashboard-farhan-5cv1.vercel.app/",
     github: "https://github.com/Farhan5685/AdminDashboard",
   },
   {
